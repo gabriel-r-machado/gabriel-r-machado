@@ -1,79 +1,46 @@
-<h1 align="center">👨🏻‍💻 Gabriel Machado</h1>
-
-<p align="center">
-  <b> Desenvolvedor Full Stack | Java (Spring Boot) & JavaScript (React/Next.js)</b><br/>
-  <i>Especialista em aplicações escaláveis, sistemas distribuídos e Cloud Infrastructure (AWS)</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maringá--PR-007ACC?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Ecossystem-ED8B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
+<h1 align="center">Gabriel Machado</h1>
+<h3 align="center">Full Stack Developer (Frontend-Focused) | React, Next.js, TypeScript</h3>
+<p align="center">Building Fast & Beautiful Web Experiences ⚡</p>
 
 ---
 
 ### 🚀 Sobre mim
-Sou **Desenvolvedor Full Stack** focado na construção de sistemas críticos e arquiteturas resilientes. Minha experiência combina a robustez do **Java/Spring** para backends de alta performance com a interatividade do **React/Next.js**.
 
-Recentemente, expandi minha atuação para **DevOps e Cloud**, projetando infraestruturas na **AWS** e implementando pipelines de CI/CD para garantir entregas ágeis e seguras. Meu objetivo é resolver problemas complexos de negócio através de código limpo, testável e escalável.
+Desenvolvedor Full Stack focado em criar aplicações web **rápidas, acessíveis e escaláveis**. Minha especialidade não é apenas fazer interfaces bonitas, mas construir interfaces que FUNCIONAM: performance otimizada, experiência de usuário fluida e código sustentável. 
 
-- 🎓 Cursando **Engenharia de Software** 
-- 💼 Atualmente atuo como **Full Stack Developer** na Vow Digital
-- ☁️ Projetos recentes com deploy em **AWS (EC2/RDS)** e **GitHub Actions**
+Meu background em e-commerce e marketing me ensinou que cada milissegundo importa para a conversão. Por isso, para mim, performance não é "nice to have", é requisito.
 
----
+- 🔭 Atualmente atuando como **Full Stack Software Engineer** na Vow Digital, focado em performance e escalabilidade de aplicações Next.js.
+- 🎓 Cursando Engenharia de Software.
+- ⚡ **Performance Frontend:** Otimização de Core Web Vitals (LCP, CLS) através de estratégias de renderização (SSR/ISR) e cache inteligente no Next.js.
+- 🏗️ **Arquitetura Frontend:** Implementação de Clean Architecture e TypeScript em "Strict Mode" no frontend, reduzindo bugs e facilitando a manutenção.
 
-### 🧱 Arquitetura & Engenharia de Software
-- **Cloud & DevOps:** Deploy de aplicações Java em AWS, configuração de ambientes e pipelines de CI/CD.
-- **Resiliência:** Uso de Circuit Breakers, Fallbacks e estratégias de Retry para APIs externas.
-- **Concorrência:** Controle transacional pessimista (Pessimistic Locking) e isolamento de dados em sistemas financeiros.
-- **Clean Architecture:** Desacoplamento de camadas (Domínio, Aplicação, Infra) para manutenibilidade.
+### 🛠️ Stack Principal & Ferramentas
 
----
+**Frontend (Foco Principal):**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 🧪 Qualidade & Testes
-- **Estratégia:** Testes Unitários e de Integração focados em regras de negócio críticas.
-- **Ferramentas:** **JUnit 5** e **Mockito** (Java) | **Jest** e **Vitest** (JavaScript).
-- **Cobertura:** Validação rigorosa de *edge cases* e tratamento de exceções.
-
----
-
-### 🧠 Tecnologias & Ferramentas
-
-#### ⚙️ Back-end & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-#### ☁️ Cloud & Infraestrutura
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-#### 💻 Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
+**Backend, Banco de Dados & Cloud:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🏆 Destaques Técnicos Recentes
-> *Projetos onde apliquei arquitetura avançada e cloud:*
 
-* **Distributed Ledger Core:** API financeira desenvolvida com Java 21 e Spring Boot. Focada em integridade de dados (ACID) e concorrência, utilizando **Pessimistic Locking** no PostgreSQL para evitar *double-spending*. Deploy realizado na **AWS**.
-* **Agenda Flow:** SaaS de agendamento multi-tenant com gestão complexa de **Timezones (UTC)** e validação estrita de contratos com Zod.
-
----
+* 📊 **Performance & Otimização:** Uso diário de React Profiler para evitar re-renders desnecessários. Experiência real reduzindo LCP em 30% com estratégias de Renderização Híbrida.
+* 📅 **AgendaFlow (SaaS de Agendamento):** Implementação de Clean Architecture no frontend separando lógica de negócio do framework. UI/UX moderna construída com Next.js 15, React 19 e Tailwind. Autenticação e segurança via Supabase + RLS (PostgreSQL).
+* 🏦 **Financial Ledger (Projeto Pessoal):** API desenvolvida em Java 21 e Spring Boot. Um laboratório pessoal focado em aprender sobre backend crítico, sistemas distribuídos, ACID e Pessimistic Locking. *(Ajudou a consolidar minha visão de arquitetura para tomar decisões melhores no frontend).*
 
 ### 📫 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachado-se/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devmachado.com.br)
+
+Estou pronto para projetos onde o frontend faz diferença real no negócio.
+
+<a href="https://linkedin.com/in/gabriel-r-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:contatodevmachado@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://devmachado.com.br/"><img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>

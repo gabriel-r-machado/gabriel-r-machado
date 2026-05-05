@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Machado</h1>
-<h3 align="center">Full Stack Developer (Frontend-Focused) | React, Next.js, TypeScript</h3>
+<h3 align="center">Full Stack Developer | React, Next.js, TypeScript</h3>
 <p align="center">Building Fast & Beautiful Web Experiences ⚡</p>
 
 ---

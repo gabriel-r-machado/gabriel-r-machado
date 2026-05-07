@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Machado</h1>
 
 <p align="center">
-  <strong>Full Stack Developer focused on Frontend, Web Systems and Dashboards</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I'm a Full Stack Developer focused on frontend, web systems, dashboards and conversion-oriented interfaces.
+I'm a Software Engineer working with frontend, backend and product-oriented web systems.
 
 I work mainly with React, Next.js, TypeScript, Tailwind CSS, Supabase and Node.js, building landing pages, SaaS products, internal systems and dashboards.
 
@@ -46,8 +46,6 @@ Financial transaction API built with Java, Spring Boot, PostgreSQL and Docker.
 
 **Garimpo Leads**  
 B2B lead generation and qualification tool using Google Maps data and AI scoring.
-
----
 
 ## 💻 Tech Stack
 

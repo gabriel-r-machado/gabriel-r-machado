@@ -1,46 +1,112 @@
 <h1 align="center">Gabriel Machado</h1>
-<h3 align="center">Full Stack Developer | React, Next.js, TypeScript</h3>
-<p align="center">Building Fast & Beautiful Web Experiences ⚡</p>
+
+<p align="center">
+  <strong>Full Stack Developer focused on Frontend, Web Systems and Dashboards</strong>
+</p>
+
+<p align="center">
+  React • Next.js • TypeScript • Node.js • Supabase • PostgreSQL • Java • Spring Boot
+</p>
+
+<p align="center">
+  <em>I build fast, scalable and business-focused web applications.</em>
+</p>
 
 ---
 
-### 🚀 Sobre mim
+## 👨‍💻 About me
 
-Desenvolvedor Full Stack focado em criar aplicações web **rápidas, acessíveis e escaláveis**. Minha especialidade não é apenas fazer interfaces bonitas, mas construir interfaces que FUNCIONAM: performance otimizada, experiência de usuário fluida e código sustentável. 
+I'm a Full Stack Developer with a strong focus on frontend, web systems, dashboards and conversion-oriented interfaces.
 
-Meu background em e-commerce e marketing me ensinou que cada milissegundo importa para a conversão. Por isso, para mim, performance não é "nice to have", é requisito.
+I work mainly with React, Next.js, TypeScript, Tailwind CSS, Supabase and Node.js, building landing pages, SaaS products, internal systems and dashboards.
 
-- 🔭 Atualmente atuando como **Full Stack Software Engineer** na Vow Digital, focado em performance e escalabilidade de aplicações Next.js.
-- 🎓 Cursando Engenharia de Software.
-- ⚡ **Performance Frontend:** Otimização de Core Web Vitals (LCP, CLS) através de estratégias de renderização (SSR/ISR) e cache inteligente no Next.js.
-- 🏗️ **Arquitetura Frontend:** Implementação de Clean Architecture e TypeScript em "Strict Mode" no frontend, reduzindo bugs e facilitando a manutenção.
+My background in e-commerce, marketing and customer service helps me build software with a strong focus on performance, usability and real business impact.
 
-### 🛠️ Stack Principal & Ferramentas
+I'm also building backend projects with Java, Spring Boot, PostgreSQL and Docker, focusing on APIs, financial transaction systems and scalable application architecture.
 
-**Frontend (Foco Principal):**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+---
 
-**Backend, Banco de Dados & Cloud:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## ⚡ Technical Highlights
 
-### 🏆 Destaques Técnicos Recentes
+- **Performance:** Improved landing page performance by reducing LCP by up to 30%.
+- **Architecture:** Built frontend architectures with React, Next.js, TypeScript and Clean Architecture principles.
+- **AI Integration:** Developed AI-powered tools using LLM APIs, structured prompts and JSON-based outputs.
+- **Backend:** Built backend projects with Java, Spring Boot, PostgreSQL, Docker and ACID transaction rules.
 
-* 📊 **Performance & Otimização:** Uso diário de React Profiler para evitar re-renders desnecessários. Experiência real reduzindo LCP em 30% com estratégias de Renderização Híbrida.
-* 📅 **AgendaFlow (SaaS de Agendamento):** Implementação de Clean Architecture no frontend separando lógica de negócio do framework. UI/UX moderna construída com Next.js 15, React 19 e Tailwind. Autenticação e segurança via Supabase + RLS (PostgreSQL).
-* 🏦 **Financial Ledger (Projeto Pessoal):** API desenvolvida em Java 21 e Spring Boot. Um laboratório pessoal focado em aprender sobre backend crítico, sistemas distribuídos, ACID e Pessimistic Locking. *(Ajudou a consolidar minha visão de arquitetura para tomar decisões melhores no frontend).*
+---
 
-### 📫 Vamos conectar?
+## 🚀 Featured Projects
 
-Estou pronto para projetos onde o frontend faz diferença real no negócio.
+### 📅 AgendaFlow
 
-<a href="https://linkedin.com/in/gabriel-r-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:contatodevmachado@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://devmachado.com.br/"><img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+Multi-tenant scheduling SaaS built with Next.js, TypeScript and Clean Architecture.
+
+- Isolated business rules from framework and infrastructure code.
+- UTC-based scheduling logic for deterministic availability.
+- Server Actions used as thin controllers.
+- Unit tests focused on core scheduling behavior.
+
+### 🤖 AgentGuard
+
+Open-source CLI framework for testing AI agents, prompts and LLM behavior.
+
+- Built with TypeScript.
+- Supports local and provider-based execution.
+- Helps validate prompt regressions and expected AI behavior.
+- Designed for automation and CI/CD workflows.
+
+### 🏦 Distributed Ledger Core
+
+Financial transaction API built with Java, Spring Boot, PostgreSQL and Docker.
+
+- ACID transactions for financial consistency.
+- Balance validation and duplicate user protection.
+- Docker-based local environment.
+- Focus on backend architecture and reliable transaction rules.
+
+### 🎯 Garimpo Leads
+
+B2B lead generation and qualification tool using Google Maps data and AI scoring.
+
+- Extracts businesses by niche and city.
+- Filters leads by digital maturity.
+- Uses AI scoring to qualify prospects.
+- Exports qualified leads to CSV for sales operations.
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,supabase,postgres,java,spring,docker,aws,git,github,vercel&perline=7" />
+  </a>
+</div>
+
+<br>
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Supabase, PostgreSQL, Java, Spring Boot  
+**Tools:** Git, GitHub, Docker, Vercel, AWS  
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielmachado-se" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:contatodevmachado@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://devmachado.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  Building fast, scalable and useful software for real business problems.
+</p>

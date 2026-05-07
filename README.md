@@ -50,8 +50,24 @@ B2B lead generation and qualification tool using Google Maps data and AI scoring
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,supabase,postgres,java,spring,docker,aws,git,github,vercel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,supabase,postgres,jest,java,spring,docker,git,github,vercel&perline=9" />
 </div>
+
+<br>
+
+**Where I use each technology:**
+
+- **HTML, CSS and JavaScript:** building responsive interfaces, landing pages and web experiences.
+- **TypeScript:** creating safer, more maintainable and scalable applications.
+- **React, Next.js and Vite:** building modern web apps, dashboards, SaaS products and frontend architectures.
+- **Tailwind CSS:** developing clean, responsive and fast UI layouts.
+- **Node.js, Supabase and PostgreSQL:** working with authentication, APIs, database logic, permissions and backend features.
+- **Jest:** writing tests for business rules, components and application behavior.
+- **Java and Spring Boot:** building backend projects, APIs and financial transaction systems.
+- **Docker:** running local development environments and backend services.
+- **AWS:** studying and deploying backend/cloud infrastructure for scalable applications.
+- **Git and GitHub:** version control, open-source projects and CI/CD workflows.
+- **Vercel:** deploying frontend applications, landing pages and SaaS MVPs.
 
 ---
 
